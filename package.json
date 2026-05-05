@@ -1,0 +1,1 @@
+{ "name": "rp-dashboard-bot", "version": "1.0.0", "description": "Discord RP bot dashboard (players, commands, store)", "main": "index.js", "type": "module", "scripts": { "start": "node index.js" }, "dependencies": { "better-sqlite3": "^9.0.0", "dotenv": "^16.4.5", "express": "^4.19.2", "express-session": "^1.17.3", "discord.js": "^14.15.3" } }
